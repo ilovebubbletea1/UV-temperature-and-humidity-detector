@@ -1,7 +1,7 @@
 # UV-temperature-and-humidity-detector
 This project is using AHT20，GYML8511，OLED Display，Arduino nano to make a UV-temperature-and-humidity-detector
 
-# About
+# Inspiration
 I love hiking and I spend a lot of time in the mountains, I get sunburned often. The weather forecast from the observatory cannot accurately predict the weather in my place. So I made this UV, temperature, humidity detector. This is the first issue of my project, and I will continue to update my project in the future.
 
 # Target
