@@ -23,3 +23,7 @@ I love hiking and I spend a lot of time in the mountains, I get sunburned often.
 -Arduino nano
 
 -Jumper Wire
+# References
+https://blog.csdn.net/chenchen2360060/article/details/122006413
+
+https://how2electronics.com/uv-sensor-ml8511-arduino-uv-ray-intensity-meter/
