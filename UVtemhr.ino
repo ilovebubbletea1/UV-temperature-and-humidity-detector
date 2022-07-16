@@ -27,7 +27,7 @@ void setup()
   display.clearDisplay();
   display.display();
 
-  display.setRotation(0); //显示方向
+  display.setRotation(0); 
   
   if (aht.begin()) {
     Serial.println("Found AHT20");
